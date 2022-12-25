@@ -1,0 +1,41 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -c-2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "4.1.1",
+    "http-server": "0.11.1",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3"
+  },
+  "dependencies": {
+    "debug": "^3.1.0",
+    "corser": "^2.0.1",
+    "async": "^1.5.2",
+    "colors": "^1.0.3",
+    "http-proxy": "^1.17.0",
+    "follow-redirects": "^1.5.0",
+    "mkdirp": "^0.5.1",
+    "he": "^1.1.1",
+    "eventemitter3": "^3.1.0",
+    "ecstatic": "^3.2.0",
+    "mime": "^1.6.0",
+    "opener": "^1.4.3",
+    "requires-port": "^1.0.0",
+    "ms": "^2.0.0",
+    "portfinder": "^1.0.13",
+    "union": "^0.4.6",
+    "url-join": "^2.0.5",
+    "optimist": "^0.6.1",
+    "wordwrap": "^0.0.3",
+    "minimist": "^1.2.0",
+    "qs": "^2.3.3"
+  },
+  "description": ""
+}
